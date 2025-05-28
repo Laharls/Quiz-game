@@ -1,24 +1,32 @@
-# 🎯 Quiz game
+# 🎮 Quiz Game - Spécial Jeux Vidéo
 
-Un petit jeu de quiz sur des questions de jeux vidéos (10 questions) avec la possibilité de sauvegarder son score.
+Un jeu de quiz dynamique sur le thème du jeu vidéo ! Ce projet propose 10 questions avec un système de score basé sur la rapidité des réponses. Un classement des meilleurs scores est affiché à la fin.
 
-## 🚀 Fonctionnalités
+🔗 [Voir la démo en ligne](https://laharls.github.io/Quiz-game/)
 
-- Récupération des questions depuis une API externe
-- Affichage dynamique côté client
-- Interface responsive
-- Système de timer pour répondre aux questions
-- Scoring en fonction de la rapidité à bien répondre aux questions
-- Fonctionnalité de highscore affiché en fin de partie.
+---
+
+## ✨ Fonctionnalités
+
+- 10 questions aléatoires sur les jeux vidéo
+- Timer de 10 secondes par question
+- Plus vous répondez vite, plus le score est élevé
+- Sauvegarde du score à la fin de la partie
+- Affichage du top 10 des meilleurs scores
+- Interface responsive et animations simples
+
+---
 
 ## 🛠️ Technologies utilisées
 
-- HTML5
-- CSS3
-- JavaScript
-- API externe
-- Pantry (via une API Proxy)
+- HTML5  
+- CSS3  
+- JavaScript Vanilla  
+- API de quiz pour les questions  
+- API Pantry (via proxy) pour la sauvegarde et lecture des scores
 
-## 🧑‍💻 Comment l'utiliser ?
+## ✨ Améliorations possibles
 
-Le projet est testable à l'url : https://laharls.github.io/Quiz-game/
+- Ajouter un écran de sélection de catégories de quiz
+- Améliorer le système de timer avec un effet visuel
+- Ajouter une page de statistiques personnelles
